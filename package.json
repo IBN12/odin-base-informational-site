@@ -1,0 +1,16 @@
+{
+  "name": "odin-base-informational-site",
+  "version": "1.0.0",
+  "description": "Base Informational Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "IBE",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
